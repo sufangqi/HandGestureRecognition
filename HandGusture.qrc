@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sdu.ico</file>
+        <file>sdu.png</file>
+        <file>c.png</file>
+        <file>8403963.jpg</file>
+    </qresource>
+</RCC>
